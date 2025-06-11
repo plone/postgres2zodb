@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t pg2zodb .
+docker build -t postgres2zodb .
